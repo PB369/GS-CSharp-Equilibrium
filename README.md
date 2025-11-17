@@ -63,9 +63,9 @@ Antes de começar, você vai precisar ter instalado em sua máquina:
     dotnet add package Swashbuckle.AspNetCore --version 6.*
 
 # 4. Depois, ainda no terminal, execute:
-* dotnet tool install --global dotnet-ef --version 8.0.10
-* dotnet ef migrations add InitialCreate
-* dotnet ef database update
+    dotnet tool install --global dotnet-ef --version 8.0.10
+    dotnet ef migrations add InitialCreate
+    dotnet ef database update
 
 # 5. Pressione f5 para iniciar o projeto
 
