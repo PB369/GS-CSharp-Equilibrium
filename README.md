@@ -2,6 +2,9 @@
 
 Este é um projeto de uma API RESTful desenvolvida para uma solução que ajuda pessoas a conciliar vida pessoal e profissional em regimes de trabalho híbrido. A API permite registrar e modificar usuários e agendamentos de trabalho, indicando horários e modelo de trabalho (Presencial ou Remoto).
 
+A API segue o modelo de versionamento por rotas, com ela atualmente funcionando em /api/v1. 
+O banco de dados escolhido para o projeto é o MySQL.
+
 ## 💎 Integrantes do Grupo
 
 - RM97937 | Pedro Henrique Fernandes Lô de Barros
