@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Equilibrium")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62ba2f55d16988e443b351dc6226749eec9b84ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("Equilibrium")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Equilibrium")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

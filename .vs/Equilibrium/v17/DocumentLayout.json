@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\pedro\\OneDrive\\Documentos\\My-Projects\\CSharp\\Equilibrium\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{954C4926-EEC8-487C-92DE-12F47B6506B6}|Equilibrium.csproj|c:\\users\\pedro\\onedrive\\documentos\\my-projects\\csharp\\equilibrium\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{954C4926-EEC8-487C-92DE-12F47B6506B6}|Equilibrium.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{954C4926-EEC8-487C-92DE-12F47B6506B6}|Equilibrium.csproj|c:\\users\\pedro\\onedrive\\documentos\\my-projects\\csharp\\equilibrium\\dtos\\scheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{954C4926-EEC8-487C-92DE-12F47B6506B6}|Equilibrium.csproj|solutionrelative:dtos\\scheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\My-Projects\\CSharp\\Equilibrium\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\My-Projects\\CSharp\\Equilibrium\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-17T19:51:53.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ScheduleDto.cs",
               "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\My-Projects\\CSharp\\Equilibrium\\DTOs\\ScheduleDto.cs",
               "RelativeDocumentMoniker": "DTOs\\ScheduleDto.cs",
@@ -47,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CreateScheduleDto.cs",
               "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\My-Projects\\CSharp\\Equilibrium\\DTOs\\CreateScheduleDto.cs",
               "RelativeDocumentMoniker": "DTOs\\CreateScheduleDto.cs",
@@ -55,12 +72,11 @@
               "RelativeToolTip": "DTOs\\CreateScheduleDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T18:35:38.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T18:35:38.059Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SchedulesController.cs",
               "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\My-Projects\\CSharp\\Equilibrium\\Controllers\\v1\\SchedulesController.cs",
               "RelativeDocumentMoniker": "Controllers\\v1\\SchedulesController.cs",
@@ -68,12 +84,11 @@
               "RelativeToolTip": "Controllers\\v1\\SchedulesController.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T17:29:06.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T17:29:06.604Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\My-Projects\\CSharp\\Equilibrium\\Controllers\\v1\\UsersController.cs",
               "RelativeDocumentMoniker": "Controllers\\v1\\UsersController.cs",
@@ -81,8 +96,7 @@
               "RelativeToolTip": "Controllers\\v1\\UsersController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T17:27:18.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T17:27:18.502Z"
             }
           ]
         }
